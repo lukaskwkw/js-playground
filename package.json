@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "code playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukasz Kwiecien",
+  "license": "ISC",
+  "devDependencies": {
+    "w3c-xmlhttprequest": "^2.1.0"
+  }
+}
